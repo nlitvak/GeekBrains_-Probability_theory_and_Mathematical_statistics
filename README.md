@@ -1,0 +1,2 @@
+# GeekBrains_Probability_theory_and_Mathematical_statistics
+Теория вероятностей и математическая статистика
